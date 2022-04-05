@@ -2,7 +2,7 @@ package MF.simple.tests;
 
 /**
  * Hello world!
- *
+ * Bella ciao!
  */
 public class App 
 {
